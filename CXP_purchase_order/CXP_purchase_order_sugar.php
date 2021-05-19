@@ -78,7 +78,6 @@ class CXP_purchase_order_sugar extends Basic
     public $user_id_c;
     public $authorized_by;
     public $payment_terms;
-    public $is_authorized;
 	
     public function bean_implements($interface)
     {

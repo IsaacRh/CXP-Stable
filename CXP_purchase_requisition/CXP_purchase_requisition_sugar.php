@@ -69,7 +69,6 @@ class CXP_purchase_requisition_sugar extends Basic
     public $user_id_c;
     public $authrorized_by;
     public $line_items;
-    public $is_authorized;
 	
     public function __construct()
     {
